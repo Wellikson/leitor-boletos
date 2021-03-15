@@ -1,0 +1,6 @@
+Principal.class
+com/mycompany/leitor/boletos/LeituraRetorno.class
+com/mycompany/leitor/boletos/LeituraRetornoBancoBrasil.class
+com/mycompany/leitor/boletos/Boleto.class
+com/mycompany/leitor/boletos/LeituraRetornoBradesco.class
+com/mycompany/leitor/boletos/ProcessarBoletos.class
